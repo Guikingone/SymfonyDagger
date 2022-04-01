@@ -1,4 +1,4 @@
-package symfony_demo
+package symfony
 
 import (
 	"dagger.io/dagger"
